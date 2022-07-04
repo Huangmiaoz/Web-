@@ -8,3 +8,6 @@
 
 ### 登录框
 学mybatis + maven + tomacat做的案例，改了巨久发现是自己变量名写错了.jpg
+
+### management
+Vue工程创建的一个简单的后台管理系统，学习使用了vue-route，果然很简单呢^ ^
